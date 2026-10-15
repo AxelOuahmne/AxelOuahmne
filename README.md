@@ -25,22 +25,26 @@
 
 - **[ObjectifNCLC](https://objectifnclc.com)** : plateforme de préparation au TCF Canada pour les candidats à l'immigration. Correction des écrits par IA (729 sujets), oral avec une examinatrice vocale IA (1 324 sujets), examens blancs, test de niveau gratuit et calculateur NCLC.
 - **[English Talkies](https://englishtalkies.com)** : plateforme gratuite d'apprentissage de l'anglais (leçons vidéo, vocabulaire, quiz, suivi de progression). [Dépôt](https://github.com/AxelOuahmne/englishtalkies)
-- **[MarketLine](https://github.com/AxelOuahmne/MarketLine)** : plateforme développée avec Laravel et React.
 
 ## 🎓 Projets d'école (Epitech)
 
-*Le code des projets Epitech reste privé, selon les règles de l'école.*
+*Projets réalisés en équipe à Epitech, publiés avec l'accord de l'école.*
 
-- **Dream Habitat** : plateforme d'IA pour refaire la décoration d'une pièce (chambre, cuisine, salon) à partir d'une photo. React, Spring Boot, API d'IA, DevOps sur AWS. Projet d'équipe de 10 personnes.
-- **Cryptomonnaie** : plateforme de cryptomonnaie en React et Node.js.
-- **Time Manager** : application de gestion du temps de travail (back-end en Elixir).
+- **[Dream Habitat](https://github.com/AxelOuahmne/dream-habitat)** : plateforme d'IA pour refaire la décoration d'une pièce (chambre, cuisine, salon) à partir d'une photo. React, Spring Boot, API d'IA, DevOps sur AWS. Projet d'équipe de 10 personnes.
+- **[Cryptomonnaie](https://github.com/AxelOuahmne/Cryptomonnaie)** : plateforme de cryptomonnaie en React et Node.js.
+- **[Time Manager](https://github.com/AxelOuahmne/T-700)** : application de gestion du temps de travail, en Elixir.
 
 ## 🎓 Formation
 
 - **Double diplôme Bac+5 Epitech** : Architecte des systèmes d'information · MSc Intelligence artificielle
+- **Concepteur développeur d'applications** (Bac+3), Greta Val-de-Marne
+- **Développeur et intégrateur web** (Bac+2), 10mentionweb
+- **Licence de sociologie**, Université Ibn Zohr (Agadir) : reconversion réussie vers le développement logiciel
 - Diplômes **vérifiés par WES** (World Education Services)
-- Reconversion réussie de la sociologie vers le développement logiciel
 
 ## 📫 Me contacter
 
-[LinkedIn](https://www.linkedin.com/in/axel-ouahmane) · je réponds en français.
+- ✉️ [axil.dev.web@gmail.com](mailto:axil.dev.web@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/axel-ouahmane)
+
+Je réponds en français.
