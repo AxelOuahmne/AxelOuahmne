@@ -18,7 +18,7 @@
 - **[Site e-commerce B2B/B2C Buisson](https://github.com/AxelOuahmne/buisson-ecommerce)**, grossiste alimentaire ([web.buisson-sa.com](https://web.buisson-sa.com)) : Laravel 11, JavaScript/AJAX, Tailwind CSS. Catalogue avec méga-menu et filtres, espace client, promotions, espace fournisseur, synchronisation avec l'ERP.
 - **[Migration d'un ERP](https://github.com/AxelOuahmne/migration-erp-cakephp5)** de CakePHP 3 / PHP 7 vers **CakePHP 5 / PHP 8** sur un nouveau serveur Linux Debian, avec mise sous Git et procédure de bascule et de retour arrière.
 - **[API d'import de données](https://github.com/AxelOuahmne/normadoc-import-mssql-sylius)** de MS SQL Server vers **Sylius** (e-commerce Symfony) pour [normadoc.com](https://www.normadoc.com).
-- **Infrastructure** : installation et configuration de serveurs Linux Debian, réseau local, NAS, sauvegardes, déploiements et suivi de production.
+- **Infrastructure** : installation et configuration de serveurs Linux Debian pour INPEC et chez ses clients, réseau local, NAS, sauvegardes, déploiements et suivi de production.
 - **Automatisation** de l'import de documents PDF → JSON avec Python et une API d'IA, à la place de la saisie manuelle.
 
 ## 🚀 Projets personnels
