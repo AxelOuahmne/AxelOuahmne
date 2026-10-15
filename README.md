@@ -13,11 +13,11 @@
 
 ## 💼 Projets professionnels
 
-*Le code de ces projets appartient à mon employeur et reste privé. Voici ce que j'ai réalisé.*
+*Réalisés chez INPEC (Ingénieur Patrice Edeline Conseils). Le code appartient à l'employeur et reste privé : chaque vitrine présente le projet et des captures d'écran.*
 
-- **Site e-commerce B2B/B2C** pour un grossiste alimentaire ([web.buisson-sa.com](https://web.buisson-sa.com)) : Laravel 11, JavaScript/AJAX, Tailwind CSS. Catalogue avec méga-menu et filtres, espace client, promotions, espace fournisseur, synchronisation avec l'ERP.
-- **Migration d'un ERP** de CakePHP 3 / PHP 7 vers **CakePHP 5 / PHP 8** sur un nouveau serveur Linux Debian, avec mise sous Git et procédure de bascule et de retour arrière.
-- **API d'import de données** de MS SQL Server vers **Sylius** (e-commerce Symfony) pour [normadoc.com](https://www.normadoc.com).
+- **[Site e-commerce B2B/B2C Buisson](https://github.com/AxelOuahmne/buisson-ecommerce)**, grossiste alimentaire ([web.buisson-sa.com](https://web.buisson-sa.com)) : Laravel 11, JavaScript/AJAX, Tailwind CSS. Catalogue avec méga-menu et filtres, espace client, promotions, espace fournisseur, synchronisation avec l'ERP.
+- **[Migration d'un ERP](https://github.com/AxelOuahmne/migration-erp-cakephp5)** de CakePHP 3 / PHP 7 vers **CakePHP 5 / PHP 8** sur un nouveau serveur Linux Debian, avec mise sous Git et procédure de bascule et de retour arrière.
+- **[API d'import de données](https://github.com/AxelOuahmne/normadoc-import-mssql-sylius)** de MS SQL Server vers **Sylius** (e-commerce Symfony) pour [normadoc.com](https://www.normadoc.com).
 - **Infrastructure** : installation et configuration de serveurs Linux Debian, réseau local, NAS, sauvegardes, déploiements et suivi de production.
 - **Automatisation** de l'import de documents PDF → JSON avec Python et une API d'IA, à la place de la saisie manuelle.
 
@@ -26,7 +26,14 @@
 - **[ObjectifNCLC](https://objectifnclc.com)** : plateforme de préparation au TCF Canada pour les candidats à l'immigration. Correction des écrits par IA (729 sujets), oral avec une examinatrice vocale IA (1 324 sujets), examens blancs, test de niveau gratuit et calculateur NCLC.
 - **[English Talkies](https://englishtalkies.com)** : plateforme gratuite d'apprentissage de l'anglais (leçons vidéo, vocabulaire, quiz, suivi de progression). [Dépôt](https://github.com/AxelOuahmne/englishtalkies)
 - **[MarketLine](https://github.com/AxelOuahmne/MarketLine)** : plateforme développée avec Laravel et React.
-- **[dream-habitat](https://github.com/AxelOuahmne/dream-habitat)** et **[crypto-data](https://github.com/AxelOuahmne/crypto-data)** : applications JavaScript.
+
+## 🎓 Projets d'école (Epitech)
+
+*Le code des projets Epitech reste privé, selon les règles de l'école.*
+
+- **Dream Habitat** : plateforme d'IA pour refaire la décoration d'une pièce (chambre, cuisine, salon) à partir d'une photo. React, Spring Boot, API d'IA, DevOps sur AWS. Projet d'équipe de 10 personnes.
+- **Cryptomonnaie** : plateforme de cryptomonnaie en React et Node.js.
+- **Time Manager** : application de gestion du temps de travail (back-end en Elixir).
 
 ## 🎓 Formation
 
