@@ -30,7 +30,7 @@
 
 *Projets réalisés en équipe à Epitech, publiés avec l'accord de l'école.*
 
-- **[Dream Habitat](https://github.com/AxelOuahmne/dream-habitat)** : plateforme d'IA pour refaire la décoration d'une pièce (chambre, cuisine, salon) à partir d'une photo. React, Spring Boot, API d'IA, DevOps sur AWS. Projet d'équipe de 10 personnes.
+- **[Dream Habitat](https://github.com/AxelOuahmne/dream-habitat)** : plateforme d'IA pour refaire la décoration d'une pièce (chambre, cuisine, salon) à partir d'une photo. Projet d'équipe de 10 personnes (React, Spring Boot, IA, AWS) : **j'ai développé le front-end** en React, Vite et Tailwind CSS.
 - **[Cryptomonnaie](https://github.com/AxelOuahmne/Cryptomonnaie)** : plateforme de cryptomonnaie en React et Node.js.
 - **[Time Manager](https://github.com/AxelOuahmne/T-700)** : application de gestion du temps de travail, en Elixir.
 
