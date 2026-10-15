@@ -6,10 +6,10 @@
 
 ## 🛠️ Technologies
 
-**Back-end** : PHP (Laravel 11, CakePHP 5, Symfony / Sylius) · Node.js / Express · Python
-**Front-end** : JavaScript (AJAX) · React · Vue.js · TypeScript · Tailwind CSS
-**Données** : MySQL / MariaDB · PostgreSQL · MS SQL Server · MongoDB
-**Serveurs & DevOps** : Linux Debian · Apache · Docker · Git / GitLab CI/CD · SSH · NAS et sauvegardes
+- **Back-end** : PHP (Laravel 11, CakePHP 5, Symfony / Sylius) · Node.js / Express · Python
+- **Front-end** : JavaScript (AJAX) · React · Vue.js · TypeScript · Tailwind CSS
+- **Données** : MySQL / MariaDB · PostgreSQL · MS SQL Server · MongoDB
+- **Serveurs & DevOps** : Linux Debian · Apache · Docker · Git / GitLab CI/CD · SSH · NAS et sauvegardes
 
 ## 💼 Projets professionnels
 
